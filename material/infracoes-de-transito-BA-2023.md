@@ -14,11 +14,13 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas na Ba
 ---
 
 ## Base Escolhida 
-- **Base**: MULTAS: Sistema de Gestão de Infrações SERPRO e RENACOM, [PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)  
+- **Base**: MULTAS: Sistema de Gestão de Infrações SERPRO e RENACOM, [PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+- # Arquivos:
+- **Arquivos para download:** [Infrações de Trânsito 2023](https://drive.google.com/file/d/19ytlVs332DVxBgBbWUSFGBtgY46sx94b/view)
 
 A base de dados selecionada contém informações detalhadas sobre as infrações de trânsito ocorridas no estado da Bahia no ano de 2023. 
 
-As principais características da base são:
+As principais características da base de dados tratada são:
 
 1. **Abrangência temporal:** A base cobre todas as infrações registradas ao longo do ano de 2023, permitindo análises mensais e sazonais.
 
