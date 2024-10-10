@@ -18,7 +18,7 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas na Ba
 ## Arquivos:
 - **Arquivos para download:** [Infrações de Trânsito 2023](https://drive.google.com/file/d/19ytlVs332DVxBgBbWUSFGBtgY46sx94b/view)
 ## Apresentação:
-- **Link da Apresentação:** [Apresentação Infração de Trânsito BA 2023](https://www.canva.com/design/DAGTHrcxM6M/s9le-l1OvezlBSaFeGv3Cw/edit?utm_content=DAGTHrcxM6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Link da Apresentação:** [Apresentação Infrações de Trânsito BA 2023](https://www.canva.com/design/DAGTHrcxM6M/s9le-l1OvezlBSaFeGv3Cw/edit?utm_content=DAGTHrcxM6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 A base de dados selecionada contém informações detalhadas sobre as infrações de trânsito ocorridas no estado da Bahia no ano de 2023. 
 
