@@ -17,6 +17,8 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas na Ba
 - **Base**: MULTAS: Sistema de Gestão de Infrações SERPRO e RENACOM, [PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
 - # Arquivos:
 - **Arquivos para download:** [Infrações de Trânsito 2023](https://drive.google.com/file/d/19ytlVs332DVxBgBbWUSFGBtgY46sx94b/view)
+- # Apresentação:
+- **Link da Apresentação:** [Apresentação Infração de Trânsito BA 2023](https://www.canva.com/design/DAGTHrcxM6M/s9le-l1OvezlBSaFeGv3Cw/edit?utm_content=DAGTHrcxM6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 A base de dados selecionada contém informações detalhadas sobre as infrações de trânsito ocorridas no estado da Bahia no ano de 2023. 
 
@@ -63,3 +65,4 @@ Realizar uma análise dos dados com o objetivo de **realizar análise detalhada 
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
+- **Canva**: Para preparar a apresentação
