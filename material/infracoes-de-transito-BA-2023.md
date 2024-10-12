@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise das **Infrações de Trânsito ocorridas na Bahia em 2023**.  
+Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas rodovias fedederais da Bahia em 2023**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
@@ -54,7 +54,7 @@ Realizar uma análise dos dados com o objetivo de **realizar análise detalhada 
 
 1. Qual é o município com a maior quantidade de infrações em 2023?
 2. Qual turno apresenta a maior incidência de infrações de trânsito?
-3. Em qual BR ocorrem mais infrações no estado da Bahia?
+3. Em qual BR ocorrem mais infrações nas rodovias federais da Bahia?
 4. Qual é a diferença entre a quantidade de infrações com abordagem e sem abordagem?
 5. Quais tipos de veículos são mais frequentemente infracionados?
 6. Quais são os tipos mais comuns de medição de infração?
