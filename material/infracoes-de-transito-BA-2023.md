@@ -58,7 +58,7 @@ Realizar uma análise dos dados com o objetivo de **realizar análise detalhada 
 3. Em qual BR ocorrem mais infrações nas rodovias federais da Bahia?
 4. Qual é a diferença entre a quantidade de infrações com abordagem e sem abordagem?
 5. Quais tipos de veículos são mais frequentemente infracionados?
-6. Quais são os tipos mais comuns de medição de infração?
+6. Quais são as maiores causas de infração de trânsito?
 7. Qual mês apresentou o maior número de infrações de trânsito?
 
 ---
