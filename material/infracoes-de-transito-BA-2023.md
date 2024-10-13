@@ -20,7 +20,7 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas r
 - **Arquivo Base Final:** [Infrações de Trânsito BA 2023](https://drive.google.com/file/d/1ZekmeioEv9i2RDwlCvx5KG1pNxEirWFr/viewv)
 ## Apresentação:
 - **Link da Apresentação:** [Apresentação Infrações de Trânsito BA 2023](https://www.canva.com/design/DAGTHrcxM6M/s9le-l1OvezlBSaFeGv3Cw/edit?utm_content=DAGTHrcxM6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- **Visualizações - Tableu:** [Dashboards](https://public.tableau.com/views/infracoes_transito_BA_2023/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link&authuser=0)
+- **Visualizações - Tableu:** [Dashboards](https://public.tableau.com/app/profile/jamile.barroso/viz/infracoes_transito_BA_2023/Story1_1)
 
 A base de dados selecionada contém informações detalhadas sobre as infrações de trânsito ocorridas nas rodovias federais da Bahia no ano de 2023. 
 
