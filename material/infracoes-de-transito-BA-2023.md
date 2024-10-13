@@ -14,7 +14,8 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas r
 ---
 
 ## Base Escolhida 
-- **Base**: MULTAS: Sistema de Gestão de Infrações SERPRO e RENACOM, [PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+- **Base:** MULTAS: Sistema de Gestão de Infrações SERPRO e RENACOM, [PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+- **Transformação da Base de Dados com Python:** [Tratamento da base de dados](https://github.com/bsjamile/on35-python-s17-s18-projeto-final/blob/main/material/projeto_infracoes-de-transito-BA-2023.ipynb)
 ## Arquivos:
 - **Arquivos para download:** [Infrações de Trânsito 2023](https://drive.google.com/file/d/19ytlVs332DVxBgBbWUSFGBtgY46sx94b/view)
 - **Arquivo Base Final:** [Infrações de Trânsito BA 2023](https://drive.google.com/file/d/1ZekmeioEv9i2RDwlCvx5KG1pNxEirWFr/viewv)
