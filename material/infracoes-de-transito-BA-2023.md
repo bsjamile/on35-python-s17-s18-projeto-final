@@ -18,7 +18,7 @@ Este projeto consiste na análise das **Infrações de Trânsito ocorridas nas r
 - **Transformação da Base de Dados com Python:** [Tratamento da base de dados](https://github.com/bsjamile/on35-python-s17-s18-projeto-final/blob/main/material/projeto_infracoes-de-transito-BA-2023.ipynb)
 ## Arquivos:
 - **Arquivos para download:** [Infrações de Trânsito 2023](https://drive.google.com/file/d/19ytlVs332DVxBgBbWUSFGBtgY46sx94b/view)
-- **Arquivo Base Final:** [Infrações de Trânsito BA 2023]([https://drive.google.com/file/d/1ZekmeioEv9i2RDwlCvx5KG1pNxEirWFr/viewv](https://drive.google.com/file/d/1ZekmeioEv9i2RDwlCvx5KG1pNxEirWFr/view?usp=sharing))
+- **Arquivo Base Final:** [Infrações de Trânsito BA 2023](https://drive.google.com/file/d/1ZekmeioEv9i2RDwlCvx5KG1pNxEirWFr/view?usp=sharing)
 ## Apresentação:
 - **Link da Apresentação:** [Apresentação Infrações de Trânsito BA 2023](https://www.canva.com/design/DAGTHrcxM6M/s9le-l1OvezlBSaFeGv3Cw/edit?utm_content=DAGTHrcxM6M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Visualizações - Tableu:** [Dashboards](https://public.tableau.com/app/profile/jamile.barroso/viz/infracoes_transito_BA_2023/Story1_1)
